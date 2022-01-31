@@ -21,20 +21,23 @@
 
 This was my individual project at Henry, and it is a responsive SPA (Single Page Application) using data extracted from an external API and the following technologies:
 
-Front End:
+**Front End**:
 - React JS
 - Redux
 - CSS Modules
 - Stylus CSS Preprocessor
 
-Backend: 
+**Backend**: 
 - Node JS
 - Express JS
 - Sequelize ORM (Sequelize-CLI)
 - PostgreSQL
 
-Some of the app features :
+**Some of the app features**:
 - Ability to filter countries by Continents
 - Search by name or keywords in the Search Bar.
 - Touristic activity creation through a controlled form
 - Show countries details
+
+### Welcome screen
+![Welcome screen](/images/pi-home-web.png)
