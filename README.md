@@ -1,9 +1,17 @@
 <h1 align="center">Hi 👋, I'm Manuel Alejandro</h1>
-<h3 align="center">A passionate fullstack developer from Colombia, actually living on Mexico City.</h3>
+<h3 align="center">A fullstack developer from Colombia, currently living in Mexico City. Passionate about everything related to technology and process automation</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alejodelosrios&label=Profile%20views&color=0e75b6&style=flat" alt="alejodelosrios" /> </p>
 
--   🌱 I’m currently learning **ReactJS, ExpressJS and Sequelize ORM**
+I have vast experience in architecture and construction, thanks to my degree in Civil Engineering, and, I want to bring all of the knowledge earned trough all those years. 
+
+What do I enjoy doing?
+I love developing functional and attractive cutting-edge design applications for customers, using every tool that makes my job more agile and efficient, like VIM editor(coding) or Figma(design). 
+
+
+Open to opportunities that give me a stage in which to apply all my qualities, both technical and personal; always proactive, eager for knowledge, happy to work with teams, and of course, focused on doing things right.
+
+Let's team up!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
